@@ -64,6 +64,7 @@ H2 = st.markdown("<h4>MicroProcessor</h4>",unsafe_allow_html=True)
 P2  = st.markdown("""<p>Microprocessors are the latest form of CPUs.<br> 
 A Microprocessors is an IC in a single chip that performs all the CPU functions with a few new circuits.<br>
 Its processing speed is so much greater than the Processor's speed.<br>
+Today all the latest CPUs are a microprocessor.<br>
 Microprocessors are multipurpose devices,which are capable of accepting and storing different types of data and processing and outputting results according to the instructions.<br>
 This invention revamped the whole CPUs realm.<br>
 The introduction of higher processors power cost increased the processors processing power and speed.<br>
@@ -73,14 +74,36 @@ But now small computers requires one or a few large scale circuits.
 <img src =https://diffzi.com/wp-content/uploads/2018/12/Microprocessor-870x435.jpg>""",unsafe_allow_html=True)
 T1 = st.markdown("""<br><table>
 <tr>
-<th>Condition</th>
+<th>Function</th>
 <th>CPU/Processor</th>
 <th>Microprocessor</th>
 <tr>
 <td>Can process logical and arithmetic operations.</td>
-<td><img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/319/check-mark-button_2705.png></td>
-<td><img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/319/check-mark-button_2705.png></td>
+<td>✅</td>
+<td>✅</td>
 </tr>
 <tr>
-<td>deals with BIOS/UEFI, memory channels, PCI-E Slots ,and other motherboard components</td>
-</tr>""",unsafe_allow_html=True)
+<td>Deals with BIOS/UEFI, memory channels, PCI-E Slots ,and other motherboard components</td>
+<td>❌</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Can have GPU units, sound cards, network cards</td>
+<td>❌</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Controls the main computer functions like starting the OS ,opening apps, and etc.</td>
+<td>✅</td>
+<td>❌</td>
+</tr>
+<tr>
+<td>The brain of the computer</td>
+<td>✅</td>
+<td>❌</td>
+</tr>
+<td>the processor of the motherboard(the small chip on the motherboard)</td>
+<td>❌</td>
+<td>✅</td>
+</table>
+""",unsafe_allow_html=True)
