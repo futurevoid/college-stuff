@@ -51,7 +51,7 @@ Bio = st.markdown("<h3>Made by Tamer saeed shawky elhussieny elkoush</h3>",unsaf
 
 st.markdown("<hr>",unsafe_allow_html=True)
 
-H1 = st.markdown("<h4>Processor</h4>")
+H1 = st.markdown("<h4>Processor</h4>",unsafe_allow_html=True)
 P1 =st.markdown("""<p>Processor which is also known as Central Processing Unit (CPU) is a chip, assigned with the instructions of performing logical I/O operations and arithmetical functions of the computer.<br> 
 Do not confuse the term CPU/processor with the whole system.<br><br>
 In fact, processor or CPU is a small chip, which contains millions of tiny transistors to run the system effectively.<br>
@@ -59,8 +59,8 @@ It is the duty of processor to monitor the computer.<br>
 Its main function is to perform complex and difficult arithmetic or logical tasks.<br>
 It reads and writes the data on CD/DVD, USB or another removable disk and also reads and writes from internal disks like SSDs and HDDs.<br> 
 It performs its functions through the ALU and the CU stands for Arithmetic Logic Unit and Control Unit respectively.</p>
-<img src =https://diffzi.com/wp-content/uploads/2018/12/Processor-870x435.jpg>""")
-H2 = st.markdown("<h4>MicroProcessor</h4>")
+<img src =https://diffzi.com/wp-content/uploads/2018/12/Processor-870x435.jpg>""",unsafe_allow_html=True)
+H2 = st.markdown("<h4>MicroProcessor</h4>",unsafe_allow_html=True)
 P2  = st.markdown("""<p>Microprocessors are the latest form of CPUs.<br> 
 A Microprocessors is an IC in a single chip that performs all the CPU functions with a few new circuits.<br>
 Its processing speed is so much greater than the Processor's speed.<br>
@@ -69,7 +69,7 @@ This invention revamped the whole CPUs realm.<br>
 The introduction of higher processors power cost increased the processors processing power and speed.<br>
 Before microprocessors, medium and small scale circuits were used for small computers.<br>
 But now small computers requires one or a few large scale circuits.
-</p>""")
+</p>""",unsafe_allow_html=True)
 T1 = st.markdown("""<table>
 <tr>
-<th>CPU/Processor</th>""")
+<th>CPU/Processor</th>""",unsafe_allow_html=True)
