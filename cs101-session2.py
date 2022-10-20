@@ -69,9 +69,11 @@ This invention revamped the whole CPUs realm.<br>
 The introduction of higher processors power cost increased the processors processing power and speed.<br>
 Before microprocessors, medium and small scale circuits were used for small computers.<br>
 But now small computers requires one or a few large scale circuits.
-</p>""",unsafe_allow_html=True)
+</p>
+<img src =https://diffzi.com/wp-content/uploads/2018/12/Microprocessor-870x435.jpg>""",unsafe_allow_html=True)
 T1 = st.markdown("""<table>
 <tr>
 <th>CPU/Processor</th>
 <th>Microprocessor</th>
-""",unsafe_allow_html=True)
+<tr><td>Processor which is also known as Central Processing Unit (CPU) is a chip, assigned with the instructions of performing logical I/O operations and arithmetical functions of the computer.</td>
+</tr>""",unsafe_allow_html=True)
