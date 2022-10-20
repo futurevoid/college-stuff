@@ -78,8 +78,9 @@ T1 = st.markdown("""<br><table>
 <th>Microprocessor</th>
 <tr>
 <td>Can process logical and arithmetic operations.</td>
-<td>✅</td>
-<td>✅</td>
+<td><img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/319/check-mark-button_2705.png></td>
+<td><img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/319/check-mark-button_2705.png></td>
 </tr>
 <tr>
+<td>deals with BIOS/UEFI, memory channels, PCI-E Slots ,and other motherboard components</td>
 </tr>""",unsafe_allow_html=True)
