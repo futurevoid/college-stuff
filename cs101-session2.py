@@ -51,6 +51,7 @@ Bio = st.markdown("<h3>Made by Tamer saeed shawky elhussieny elkoush</h3>",unsaf
 
 st.markdown("<hr>",unsafe_allow_html=True)
 
+title1 = st.markdown ("<h2>Processors vs Microprocessors</h2>",unsafe_allow_html=True)
 H1 = st.markdown("<h4>Processor</h4>",unsafe_allow_html=True)
 P1 =st.markdown("""<p>Processor which is also known as Central Processing Unit (CPU) is a chip, assigned with the instructions of performing logical I/O operations and arithmetical functions of the computer.<br> 
 Do not confuse the term CPU/processor with the whole system.<br><br>
@@ -118,4 +119,16 @@ T1 = st.markdown("""<br><table>
 <td>❌</td>
 </tr>
 </table>
+<br>
 """,unsafe_allow_html=True)
+HR = st.markdown("<hr>",unsafe_allow_html=True)
+title2 = st.markdown ("<h2>Hard Disk Drives(HDD) vs Solid State Drive(SSD)</h2>",unsafe_allow_html=True)
+H3= st.markdown("""
+<h4>Hard Disk Drive (HDD)</h4>
+""",unsafe_allow_html=True)
+P3= st.markdown("""<p>
+An HDD uses magnetism, which allows you to store data on a rotating platter.<br>
+It has a read/write head that floats above the spinning platter for Reading and Writing of the data.<br>
+The faster the platter spins, the quicker an HDD can perform.<br>
+HDD also consists of an I/O controller and firmware, which tells the hardware what to do and communicates with the remaining system.<br>
+The full form of HDD is Hard Disk Drive.</p>""",unsafe_allow_html=True)
