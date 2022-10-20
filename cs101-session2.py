@@ -71,9 +71,16 @@ Before microprocessors, medium and small scale circuits were used for small comp
 But now small computers requires one or a few large scale circuits.
 </p>
 <img src =https://diffzi.com/wp-content/uploads/2018/12/Microprocessor-870x435.jpg>""",unsafe_allow_html=True)
-T1 = st.markdown("""<table>
+T1 = st.markdown("""<br><table>
 <tr>
+<th> </th>
 <th>CPU/Processor</th>
 <th>Microprocessor</th>
-<tr><td>Processor which is also known as Central Processing Unit (CPU) is a chip, assigned with the instructions of performing logical I/O operations and arithmetical functions of the computer.</td>
+<tr>
+<td>Can process logical and arithmetic operations.</td>
+<td>✅</td>
+<td>✅</td>
+<td>deals with BIOS/UEFI, memory channels, PCI-E Slots ,and other motherboard components</td>
+<td> </td>
+<td>✅</td>
 </tr>""",unsafe_allow_html=True)
