@@ -102,8 +102,20 @@ T1 = st.markdown("""<br><table>
 <td>✅</td>
 <td>❌</td>
 </tr>
+<tr>
 <td>the processor of the motherboard(the small chip on the motherboard)</td>
 <td>❌</td>
 <td>✅</td>
+</tr>
+<tr>
+<td>Can be Microprocessors</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>Can be CPUs</td>
+<td>✅</td>
+<td>❌</td>
+</tr>
 </table>
 """,unsafe_allow_html=True)
