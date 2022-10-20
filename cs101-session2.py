@@ -73,14 +73,13 @@ But now small computers requires one or a few large scale circuits.
 <img src =https://diffzi.com/wp-content/uploads/2018/12/Microprocessor-870x435.jpg>""",unsafe_allow_html=True)
 T1 = st.markdown("""<br><table>
 <tr>
-<th> </th>
+<th>Condition</th>
 <th>CPU/Processor</th>
 <th>Microprocessor</th>
 <tr>
 <td>Can process logical and arithmetic operations.</td>
 <td>✅</td>
 <td>✅</td>
-<td>deals with BIOS/UEFI, memory channels, PCI-E Slots ,and other motherboard components</td>
-<td> </td>
-<td>✅</td>
+</tr>
+<tr>
 </tr>""",unsafe_allow_html=True)
