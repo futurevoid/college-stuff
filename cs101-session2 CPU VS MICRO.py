@@ -3,7 +3,7 @@ import requests
 
 
 st.set_page_config(
-         page_title="CS101 session2",
+         page_title="CS101 session2 CPU VS Microprocessor",
      page_icon="",
      initial_sidebar_state="collapsed",
  )
@@ -121,14 +121,3 @@ T1 = st.markdown("""<br><table>
 </table>
 <br>
 """,unsafe_allow_html=True)
-HR = st.markdown("<hr>",unsafe_allow_html=True)
-title2 = st.markdown ("<h2>Hard Disk Drives(HDD) vs Solid State Drive(SSD)</h2>",unsafe_allow_html=True)
-H3= st.markdown("""
-<h4>Hard Disk Drive (HDD)</h4>
-""",unsafe_allow_html=True)
-P3= st.markdown("""<p>
-An HDD uses magnetism, which allows you to store data on a rotating platter.<br>
-It has a read/write head that floats above the spinning platter for Reading and Writing of the data.<br>
-The faster the platter spins, the quicker an HDD can perform.<br>
-HDD also consists of an I/O controller and firmware, which tells the hardware what to do and communicates with the remaining system.<br>
-The full form of HDD is Hard Disk Drive.</p>""",unsafe_allow_html=True)
