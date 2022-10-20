@@ -72,4 +72,6 @@ But now small computers requires one or a few large scale circuits.
 </p>""",unsafe_allow_html=True)
 T1 = st.markdown("""<table>
 <tr>
-<th>CPU/Processor</th>""",unsafe_allow_html=True)
+<th>CPU/Processor</th>
+<th>Microprocessor</th>
+""",unsafe_allow_html=True)
