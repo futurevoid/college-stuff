@@ -13,7 +13,7 @@ namespace CS102session2
             var gradestr = Interaction.InputBox("Student's grade", "Grading Portal", "");
             try
             {
-                int grade = (int)Convert.ToInt64(gradestr)
+                int grade = (int)Convert.ToInt64(gradestr);
 
                 switch (grade)
                 {
