@@ -3,7 +3,7 @@ import requests
 
 
 st.set_page_config(
-         page_title="CS101 session2",
+         page_title="CS101 session2 HDD VS SSD",
      page_icon="",
      initial_sidebar_state="collapsed",
  )
