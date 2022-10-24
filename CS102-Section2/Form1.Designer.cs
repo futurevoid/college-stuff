@@ -28,19 +28,70 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.studgrd = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.submitbtn = new System.Windows.Forms.Button();
+            this.cnclbtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // studgrd
+            // 
+            this.studgrd.AutoSize = true;
+            this.studgrd.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.studgrd.Location = new System.Drawing.Point(25, 25);
+            this.studgrd.Name = "studgrd";
+            this.studgrd.Size = new System.Drawing.Size(126, 21);
+            this.studgrd.TabIndex = 0;
+            this.studgrd.Text = "Student\'s Grade";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(25, 228);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(484, 23);
+            this.textBox1.TabIndex = 1;
+            // 
+            // submitbtn
+            // 
+            this.submitbtn.Location = new System.Drawing.Point(437, 54);
+            this.submitbtn.Name = "submitbtn";
+            this.submitbtn.Size = new System.Drawing.Size(96, 33);
+            this.submitbtn.TabIndex = 2;
+            this.submitbtn.Text = "Submit";
+            this.submitbtn.UseVisualStyleBackColor = true;
+            this.submitbtn.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // cnclbtn
+            // 
+            this.cnclbtn.Location = new System.Drawing.Point(437, 112);
+            this.cnclbtn.Name = "cnclbtn";
+            this.cnclbtn.Size = new System.Drawing.Size(96, 35);
+            this.cnclbtn.TabIndex = 3;
+            this.cnclbtn.Text = "Cancel";
+            this.cnclbtn.UseVisualStyleBackColor = true;
+            this.cnclbtn.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(545, 263);
+            this.Controls.Add(this.cnclbtn);
+            this.Controls.Add(this.submitbtn);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.studgrd);
             this.Name = "Form1";
             this.Text = "Grading Portal";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
+
+        private Label studgrd;
+        private TextBox textBox1;
+        private Button submitbtn;
+        private Button cnclbtn;
     }
 }
