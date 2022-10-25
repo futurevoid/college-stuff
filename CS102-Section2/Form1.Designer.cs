@@ -31,7 +31,7 @@
             this.studgrd = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.submitbtn = new System.Windows.Forms.Button();
-            this.cnclbtn = new System.Windows.Forms.Button();
+            this.exitbtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // studgrd
@@ -50,6 +50,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(484, 23);
             this.textBox1.TabIndex = 1;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // submitbtn
             // 
@@ -61,22 +62,22 @@
             this.submitbtn.UseVisualStyleBackColor = true;
             this.submitbtn.Click += new System.EventHandler(this.button1_Click);
             // 
-            // cnclbtn
+            // exitbtn
             // 
-            this.cnclbtn.Location = new System.Drawing.Point(437, 112);
-            this.cnclbtn.Name = "cnclbtn";
-            this.cnclbtn.Size = new System.Drawing.Size(96, 35);
-            this.cnclbtn.TabIndex = 3;
-            this.cnclbtn.Text = "Cancel";
-            this.cnclbtn.UseVisualStyleBackColor = true;
-            this.cnclbtn.Click += new System.EventHandler(this.button2_Click);
+            this.exitbtn.Location = new System.Drawing.Point(437, 112);
+            this.exitbtn.Name = "exitbtn";
+            this.exitbtn.Size = new System.Drawing.Size(96, 35);
+            this.exitbtn.TabIndex = 3;
+            this.exitbtn.Text = "Exit";
+            this.exitbtn.UseVisualStyleBackColor = true;
+            this.exitbtn.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(545, 263);
-            this.Controls.Add(this.cnclbtn);
+            this.Controls.Add(this.exitbtn);
             this.Controls.Add(this.submitbtn);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.studgrd);
@@ -92,6 +93,6 @@
         private Label studgrd;
         private TextBox textBox1;
         private Button submitbtn;
-        private Button cnclbtn;
+        private Button exitbtn;
     }
 }

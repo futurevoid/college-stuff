@@ -17,43 +17,56 @@ namespace CS102_Section2
         }
 
 
+         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             try
             {
-                int grade = (int)Convert.ToInt64("90");
+                Double grade = (Double)Convert.ToDouble(textBox1.Text);
 
-                if (grade>=90)
+                switch (grade)
                 {
-                    MessageBox.Show("A");
-                    this.Close();
+                    case >= 90:
+                        MessageBox.Show("A");
+                        this.Close();
+                        break;
+
+                    case >= 80:
+                        MessageBox.Show("B");
+                        this.Close();
+                        break;
+
+                    case >= 70:
+                        MessageBox.Show("C");
+                        this.Close();
+                        break;
+
+                    case >= 60:
+                        MessageBox.Show("D");
+                        this.Close();
+                        break;
+
+                    case < 60:
+                        MessageBox.Show("F");
+                        this.Close();
+                        break;
+
+                    default:
+                        MessageBox.Show("Invalid Number");
+                        this.Close();
+                        break;
+
+
 
                 }
-                else if(grade >= 80)
-                {
-                    MessageBox.Show("B");
-                    this.Close();
-                }
-                else if (grade >= 70)
-                {
-                    MessageBox.Show("C");
-                    this.Close();
-                }
-                else if (grade >= 60)
-                {
-                    MessageBox.Show("D");
-                    this.Close();
-                }
-                else
-                {
-                    MessageBox.Show("F");
-                    this.Close();
-                }
-               
+
             }
             catch (System.FormatException)
             {
-                MessageBox.Show("Invalid Format");
+                MessageBox.Show("Invalid datatype/format. only numbers");
                 this.Close();
             }
         }
@@ -63,5 +76,6 @@ namespace CS102_Section2
             this.Close();
         }
 
+       
     }
 }
