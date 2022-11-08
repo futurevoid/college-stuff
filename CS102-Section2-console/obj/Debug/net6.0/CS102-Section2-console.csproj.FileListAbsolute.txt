@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\bin\Debug\net6.0\CS102-Section2-console.exe
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\bin\Debug\net6.0\CS102-Section2-console.deps.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\bin\Debug\net6.0\CS102-Section2-console.runtimeconfig.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\bin\Debug\net6.0\CS102-Section2-console.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\bin\Debug\net6.0\CS102-Section2-console.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\CS102-Section2-console.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\CS102-Section2-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\CS102-Section2-console.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\CS102-Section2-console.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\CS102-Section2-console.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\CS102-Section2-console.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\refint\CS102-Section2-console.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\CS102-Section2-console.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\CS102-Section2-console.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2-console\obj\Debug\net6.0\ref\CS102-Section2-console.dll

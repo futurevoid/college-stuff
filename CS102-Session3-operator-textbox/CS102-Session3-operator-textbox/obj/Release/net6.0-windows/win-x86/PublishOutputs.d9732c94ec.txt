@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\CS102-Session3-operator-textbox.pdb
+C:\Users\Administrator\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\Administrator\Desktop\PenImc_cor3.dll
+C:\Users\Administrator\Desktop\PresentationNative_cor3.dll
+C:\Users\Administrator\Desktop\vcruntime140_cor3.dll
+C:\Users\Administrator\Desktop\wpfgfx_cor3.dll
+C:\Users\Administrator\Desktop\CS102-Session3-operator-textbox.exe

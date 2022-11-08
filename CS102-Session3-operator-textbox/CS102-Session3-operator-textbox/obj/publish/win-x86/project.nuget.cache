@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Geesh96DfP/Ux4zHRcsdqA6QBIMkAeB/sBf738AnxWWkpeiPcBPKPhueRfiSdOA+n7qU4devSuuIf/YRYYzb3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\futurevoid\\college-stuff\\CS102-Session3-operator-textbox\\CS102-Session3-operator-textbox\\CS102-Session3-operator-textbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.10\\microsoft.netcore.app.runtime.win-x86.6.0.10.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.10\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.10.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.10\\microsoft.aspnetcore.app.runtime.win-x86.6.0.10.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.10\\microsoft.netcore.app.crossgen2.win-x64.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

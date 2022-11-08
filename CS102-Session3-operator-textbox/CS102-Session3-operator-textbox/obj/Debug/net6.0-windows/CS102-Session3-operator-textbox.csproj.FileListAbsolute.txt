@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\bin\Debug\net6.0-windows\CS102-Session3-operator-textbox.exe
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\bin\Debug\net6.0-windows\CS102-Session3-operator-textbox.deps.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\bin\Debug\net6.0-windows\CS102-Session3-operator-textbox.runtimeconfig.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\bin\Debug\net6.0-windows\CS102-Session3-operator-textbox.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\bin\Debug\net6.0-windows\CS102-Session3-operator-textbox.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102-Session3-operator-textbox.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102_Session3_operator_textbox.Form1.resources
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102-Session3-operator-textbox.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102-Session3-operator-textbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102-Session3-operator-textbox.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102-Session3-operator-textbox.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102-Session3-operator-textbox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102-Session3-operator-textbox.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\refint\CS102-Session3-operator-textbox.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102-Session3-operator-textbox.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\CS102-Session3-operator-textbox.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Session3-operator-textbox\CS102-Session3-operator-textbox\obj\Debug\net6.0-windows\ref\CS102-Session3-operator-textbox.dll

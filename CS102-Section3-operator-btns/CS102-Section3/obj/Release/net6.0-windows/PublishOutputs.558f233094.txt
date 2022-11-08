@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Section3.exe
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Section3.dll
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Section3.deps.json
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Section3.runtimeconfig.json
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Section3.pdb

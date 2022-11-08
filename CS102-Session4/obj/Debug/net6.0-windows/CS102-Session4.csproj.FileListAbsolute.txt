@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\CS102-Session4\bin\Debug\net6.0-windows\CS102-Session4.exe
+C:\Users\Administrator\Desktop\CS102-Session4\bin\Debug\net6.0-windows\CS102-Session4.deps.json
+C:\Users\Administrator\Desktop\CS102-Session4\bin\Debug\net6.0-windows\CS102-Session4.runtimeconfig.json
+C:\Users\Administrator\Desktop\CS102-Session4\bin\Debug\net6.0-windows\CS102-Session4.dll
+C:\Users\Administrator\Desktop\CS102-Session4\bin\Debug\net6.0-windows\CS102-Session4.pdb
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102-Session4.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102_Session4.Form1.resources
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102-Session4.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102-Session4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102-Session4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102-Session4.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102-Session4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102-Session4.dll
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\refint\CS102-Session4.dll
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102-Session4.pdb
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\CS102-Session4.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CS102-Session4\obj\Debug\net6.0-windows\ref\CS102-Session4.dll

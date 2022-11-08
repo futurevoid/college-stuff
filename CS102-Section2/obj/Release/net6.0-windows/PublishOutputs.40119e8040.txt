@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2\release\CS102-Section2.exe
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2\release\CS102-Section2.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2\release\CS102-Section2.deps.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2\release\CS102-Section2.runtimeconfig.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\CS102-Section2\release\CS102-Section2.pdb

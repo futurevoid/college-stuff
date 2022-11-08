@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Session3-operator-button\CS102-Section3.pdb
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Session3-operator-button\D3DCompiler_47_cor3.dll
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Session3-operator-button\PenImc_cor3.dll
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Session3-operator-button\PresentationNative_cor3.dll
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Session3-operator-button\vcruntime140_cor3.dll
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Session3-operator-button\wpfgfx_cor3.dll
+C:\Users\Administrator\Desktop\APPS BY 0XLOL\CS102-Session3-operator-button\CS102-Section3.exe
