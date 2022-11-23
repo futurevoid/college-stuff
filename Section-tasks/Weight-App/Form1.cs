@@ -12,7 +12,7 @@ namespace Weight_App
         {
             try 
             {
-                int mass = int.Parse(masstxt.Text);
+                double mass = double.Parse(masstxt.Text);
                 double weight = mass * 9.81;
                 weightval_lbl.Text = weight.ToString() + " N";
                 switch (mass)

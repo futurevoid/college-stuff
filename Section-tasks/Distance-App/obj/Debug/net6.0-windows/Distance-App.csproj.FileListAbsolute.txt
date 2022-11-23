@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\bin\Debug\net6.0-windows\Distance-App.exe
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\bin\Debug\net6.0-windows\Distance-App.deps.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\bin\Debug\net6.0-windows\Distance-App.runtimeconfig.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\bin\Debug\net6.0-windows\Distance-App.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\bin\Debug\net6.0-windows\Distance-App.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance-App.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance_App.Form1.resources
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance-App.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance-App.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance-App.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance-App.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance-App.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\refint\Distance-App.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance-App.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\Distance-App.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Distance-App\obj\Debug\net6.0-windows\ref\Distance-App.dll
