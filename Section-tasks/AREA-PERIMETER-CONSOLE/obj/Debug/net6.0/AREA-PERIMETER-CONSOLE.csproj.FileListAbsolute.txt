@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\bin\Debug\net6.0\AREA-PERIMETER-CONSOLE.exe
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\bin\Debug\net6.0\AREA-PERIMETER-CONSOLE.deps.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\bin\Debug\net6.0\AREA-PERIMETER-CONSOLE.runtimeconfig.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\bin\Debug\net6.0\AREA-PERIMETER-CONSOLE.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\bin\Debug\net6.0\AREA-PERIMETER-CONSOLE.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\AREA-PERIMETER-CONSOLE.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\AREA-PERIMETER-CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\AREA-PERIMETER-CONSOLE.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\AREA-PERIMETER-CONSOLE.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\AREA-PERIMETER-CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\AREA-PERIMETER-CONSOLE.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\refint\AREA-PERIMETER-CONSOLE.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\AREA-PERIMETER-CONSOLE.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\AREA-PERIMETER-CONSOLE.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\AREA-PERIMETER-CONSOLE\obj\Debug\net6.0\ref\AREA-PERIMETER-CONSOLE.dll

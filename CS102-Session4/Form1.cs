@@ -22,13 +22,14 @@ namespace CS102_Session4
                 // the number divided by to get the checker final value
 
                 int i, checker = 0;
-
-                for (i = 1; i <= num; i++)
+                i = 1;
+                while (num>=i)
                 {
                     if (num % i == 0)
                     {
                         checker++;
                     }
+                    i++;
                 }
 
                 if (checker == 2)
