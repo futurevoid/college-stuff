@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\bin\Debug\net6.0-windows\Weight-App.exe
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\bin\Debug\net6.0-windows\Weight-App.deps.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\bin\Debug\net6.0-windows\Weight-App.runtimeconfig.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\bin\Debug\net6.0-windows\Weight-App.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\bin\Debug\net6.0-windows\Weight-App.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight-App.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight_App.Form1.resources
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight-App.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight-App.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight-App.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight-App.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight-App.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\refint\Weight-App.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight-App.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\Weight-App.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Weight-App\obj\Debug\net6.0-windows\ref\Weight-App.dll
