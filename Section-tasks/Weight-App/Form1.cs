@@ -17,11 +17,11 @@ namespace Weight_App
                 weightval_lbl.Text = weight.ToString() + " N";
                 switch (mass)
                 {
-                    case >1000:
+                    case >=1000:
                         weighthl.Text = "Too high";
                         break;
 
-                    case < 10:
+                    case <= 10:
                         weighthl.Text = "Too Low";
                         break;
 
