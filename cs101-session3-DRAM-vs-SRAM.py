@@ -68,7 +68,7 @@ H2= st.markdown("""
 <h4>Static Random-Access Memory(SRAM)<br></h4>
 """,unsafe_allow_html=True)
 
-P2= st.markdown("""<p>&nbsp;Data is stored in transistors and requires a constant power flow. 
+P2= st.markdown("""<p>Data is stored in transistors and requires a constant power flow. 
 Because of the continuous power, SRAM doesn’t need to be refreshed to remember the data being stored. 
 SRAM is called static as no change or action i.e. refreshing is not needed to keep the data intact. 
 It is used in cache memories.&nbsp;</p>""",unsafe_allow_html=True)
