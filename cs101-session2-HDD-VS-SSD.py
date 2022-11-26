@@ -19,7 +19,7 @@ footer { visibility:hidden; }
 
 css = st.markdown("""<style>
 .list1{
-  text-align: center;
+  text-align: left; !important
   }
   html body div#root div div.withScreencast div div.stApp.css-ffhzg2.eczokvf1 div.appview-container.css-1wrcr25.egzxvld4 section.main.css-k1vhr4.egzxvld3 footer.css-1lsmgbg.egzxvld0{
     visibility: hidden;
@@ -34,13 +34,13 @@ css = st.markdown("""<style>
   }
 
   td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #696969;
     text-align: left;
     padding: 8px;
   }
 
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #696969;
   }
   </style>""",unsafe_allow_html=True)
 
