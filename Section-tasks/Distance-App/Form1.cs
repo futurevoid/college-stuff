@@ -15,6 +15,7 @@ namespace Distance_App
                 Double hrs_trvld = Double.Parse(hrtxt.Text);
                 Double Distance = speed * hrs_trvld;
                 MessageBox.Show($"Distance: {Distance}");
+                
             }
             catch (System.FormatException)
             {
