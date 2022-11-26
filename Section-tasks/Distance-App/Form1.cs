@@ -9,23 +9,25 @@ namespace Distance_App
 
         private void Calcbtn_Click(object sender, EventArgs e)
         {
-            Double speed = 0;
-            speed = Double.Parse(Spdtxt.Text);
-            Double Hours_trvld = 0;
-            Hours_trvld = Double.Parse(Hrs_trvld.Text);
-            Double distance = 0;
-            distance = speed * Hours_trvld;
-            resultlst.Text = distance.ToString();
-            Double counter = 1;
-            resultlst.Items.Clear();
-            while (counter <= Hours_trvld)
+            try 
             {
-                Double speed = Double.Parse(spdtxt.Text);
-                Double hrs_trvld = Double.Parse(hrtxt.Text);
-                Double Distance = speed * hrs_trvld;
-                MessageBox.Show($"Distance: {Distance}");
-                
+                int speed = 0;
+                speed = int.Parse(Spdtxt.Text);
+                int Hours_trvld = 0;
+                Hours_trvld = int.Parse(Hrs_trvld.Text);
+                int distance = 0;
+                distance = speed * Hours_trvld;
+                resultlst.Text = distance.ToString();
+                int counter = 1;
+                resultlst.Items.Clear();
+                while (counter <= Hours_trvld)
+                {
+                    distance = counter * speed;
+                    resultlst.Items.Add($"after {Hours_trvld} hours passed , The distance is {distance.ToString()}");
+                    counter++;
+                }
             }
+            
             catch (System.FormatException)
             {
                 MessageBox.Show("Invalid Value");
