@@ -19,7 +19,7 @@ footer { visibility:hidden; }
 
 css = st.markdown("""<style>
 .list1{
-  text-align: center;
+  text-align: left; !important
   }
   html body div#root div div.withScreencast div div.stApp.css-ffhzg2.eczokvf1 div.appview-container.css-1wrcr25.egzxvld4 section.main.css-k1vhr4.egzxvld3 footer.css-1lsmgbg.egzxvld0{
     visibility: hidden;
@@ -51,7 +51,9 @@ Bio = st.markdown("<h3>Made by Tamer saeed shawky elhussieny elkoush</h3>",unsaf
 
 st.markdown("<hr>",unsafe_allow_html=True)
 
-title2 = st.markdown ("<h2>Synchronous Dynamic Random Access Memory(SDRAM) vs Double Data Rate Synchronous Random-Access Memory(SRAM)</h2>",unsafe_allow_html=True)
+title2 = st.markdown ("""<h2>Synchronous Dynamic Random Access Memory(SDRAM)<br>
+vs <br>
+Double Data Rate Synchronous Random Access Memory(SRAM)</h2>""",unsafe_allow_html=True)
 
 H1= st.markdown("""
 <h4>Synchronous Dynamic Random Access Memory(SDRAM)</h4>
