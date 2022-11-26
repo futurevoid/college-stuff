@@ -83,41 +83,56 @@ H3= st.markdown("""
 """,unsafe_allow_html=True)
 
 P3= st.markdown("""<p>
-DDR3 SDRAM is the third generation of DDR SDRAM.""",unsafe_allow_html=True)
+DDR3 SDRAM is the third generation of DDR SDRAM.DDR3 memory reduces 40% power consumption compared to current DDR2 modules, allowing for lower operating currents and voltages (1.5 V, compared to DDR2's 1.8 V or DDR's 2.5 V). 
+The transfer rate of DDR3 is 800~1600 MT/s.
+DDR3's prefetch buffer width is 8 bit, whereas DDR2's is 4 bit, and DDR's is 2 bit. 
+DDR3 also adds two functions, such as ASR (Automatic Self-Refresh) and SRT (Self-Refresh Temperature). 
+They can make the memory control the refresh rate according to the temperature variation.</p>""",unsafe_allow_html=True)
 
-T1=st.markdown("""</tr></tbody></table><table><tbody><tr>
-      <th>SDRAM</th>
-      <th>DDR SDRAM</th>
-    </tr><tr>
-      <th>It refers as synchronous dynamic random access memory</th>
-      <th>It refers as Double data rate synchronous dynamic random access memory</th>
-    </tr><tr>
-      <th>SDRAM has 168 pins and two notches at the connector</th>
-      <th>DDR has 184 pins and a single notch at the connector.</th>
-    </tr><tr>
-      <th>SDRAM was released in 1997</th>
-      <th>DDR SDRAM was released in 2000</th>
-    </tr><tr>
-      <th>SDRAM has less speed in comparison DDR</th>
-      <th>DDR can transfer data at roughly twice the speed of SDRAM.</th>
-    </tr><tr>
-      <th>it’s working on 3.3 volts</th>
-      <th>it’s working on 2.5 Volts (standard); 1.8 V (low voltage)</th>
-    </tr><tr>
-      <th>SDRAM speed is considered as 66 MHz, 100 MHz, 133 MHz</th>
-      <th>DDR working on speed as 200 MHz, 266 MHz, 333 MHz, 400 MHz</th>
-    </tr><tr>
-      <th>SDRAM’s Internal rate range is (100 Mhz-166 Mhz)</th>
-      <th>DDR’s Internal rate range is(133 Mhz – 200 Mhz)</th>
-    </tr><tr>
-      <th>Data rate of SDRAM is (0.8-1.3) GB/s</th>
-      <th>Data rate of DDR is (2.1-3.2)</th>
-    </tr><tr>
-      <th>SDRAM prefetch timing is 1ns</th>
-      <th>DDR prefetch timing is 2ns</th>
-    </tr><tr>
-      <th>SDRAM is waiting wait for the completion of the previous command to be able to do another read/write operation.</th>
-      <th>DDR is not waiting wait for the completion of the previous command to be able to do another read/write operation.</th>
-    </tr></tbody></table>""",unsafe_allow_html=True)
+H4= st.markdown("""
+<h4>Double Double Data Synchronous Type 4 Dynamic Random-Access Memory(DDR4 SDRAM)<br></h4>
+""",unsafe_allow_html=True)
+
+P4= st.markdown("""<p>
+DDR4 SDRAM is the fourth generation of DDR SDRAM.
+DDR4 memory is the first memory to support 1.2 V operation, which is 20% lower than DDR3's 1.5 V.
+DDR4 adds four new Bank Groups technology. Each bank group has the feature of singlehanded operation. 
+DDR4 can process 4 data within a clock cycle, so DDR4's efficiency is better than DDR3 obviously. 
+DDR4 also adds some functions, such as DBI (Data Bus Inversion), CRC (Cyclic Redundancy Check) and CA parity. 
+They can enhance DDR4 memory's signal integrity, and improve the stability of data transmission/access.</p>""",unsafe_allow_html=True)
+
+img = st.markdown("<img src = https://tl360.b-cdn.net/wp-content/uploads/2020/10/DDR1-vs-DDR2-vs-DDR3-vs-DDR4-RAM-2.jpg></img>",unsafe_allow_html=True)
+T1=st.markdown("""<table cellspacing="0" cellpadding="1" border="1">
+<tbody><tr><td>&nbsp;</td>
+<td>&nbsp;DRAM</td>
+<td>&nbsp;DDR</td>
+<td>&nbsp;DDR2</td>
+<td>&nbsp;DDR3</td>
+<td>&nbsp;DDR4</td>
+</tr><tr><td>Prefetch</td>
+<td>1 – Bit</td>
+<td>2 - Bit</td>
+<td>4 - Bit</td>
+<td>8 - Bit</td>
+<td>8 - Bit</td>
+</tr><tr><td>Data Rate (MT/s)</td>
+<td>100 - 166</td>
+<td>266 - 400</td>
+<td>533 - 800</td>
+<td>1066 - 1600</td>
+<td>2133 - 5100</td>
+</tr><tr><td>Transfer Rate (GB/s)</td>
+<td>0.8 - 1.3</td>
+<td>2.1 - 3.2</td>
+<td>4.2 - 6.4</td>
+<td>8.5 - 14.9</td>
+<td>17 - 25.6</td>
+</tr><tr><td>Voltage (V)</td>
+<td>3.3</td>
+<td>2.5 - 2.6</td>
+<td>1.8</td>
+<td>1.35 - 1.5</td>
+<td>1.2</td>
+</tr></tbody></table>""",unsafe_allow_html=True)
 
 
