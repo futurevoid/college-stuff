@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\bin\Debug\net6.0-windows\Radian to degree.exe
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\bin\Debug\net6.0-windows\Radian to degree.deps.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\bin\Debug\net6.0-windows\Radian to degree.runtimeconfig.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\bin\Debug\net6.0-windows\Radian to degree.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\bin\Debug\net6.0-windows\Radian to degree.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian to degree.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian_to_degree.Form1.resources
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian to degree.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian to degree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian to degree.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian to degree.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian to degree.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian to degree.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\refint\Radian to degree.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian to degree.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\Radian to degree.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Radian to degree\obj\Debug\net6.0-windows\ref\Radian to degree.dll

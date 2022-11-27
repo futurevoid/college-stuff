@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\bin\Debug\net6.0-windows\Palindrome Checker.exe
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\bin\Debug\net6.0-windows\Palindrome Checker.deps.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\bin\Debug\net6.0-windows\Palindrome Checker.runtimeconfig.json
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\bin\Debug\net6.0-windows\Palindrome Checker.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\bin\Debug\net6.0-windows\Palindrome Checker.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome Checker.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome_Checker.Form1.resources
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome Checker.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome Checker.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome Checker.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome Checker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome Checker.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\refint\Palindrome Checker.dll
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome Checker.pdb
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\Palindrome Checker.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\futurevoid\college-stuff\Section-tasks\Palindrome Checker\obj\Debug\net6.0-windows\ref\Palindrome Checker.dll
