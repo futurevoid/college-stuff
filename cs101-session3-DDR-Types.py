@@ -47,7 +47,7 @@ css = st.markdown("""<style>
 
 title = st.markdown(f"<h1>CS101 Computer Science Fundamentals<br>Taught by DR. Heba Elhadidi</h1>",unsafe_allow_html=True)
 
-Bio = st.markdown("<h3>Made by Tamer saeed shawky elhussieny elkoush</h3>",unsafe_allow_html=True)
+Bio = st.markdown("<h3>من قبل تامر السعيد شوقي الحسيني الكوش</h3>",unsafe_allow_html=True)
 
 st.markdown("<hr>",unsafe_allow_html=True)
 
@@ -105,7 +105,7 @@ img = st.markdown("<img src = https://tl360.b-cdn.net/wp-content/uploads/2020/10
 T1=st.markdown("""<table cellspacing="0" cellpadding="1" border="1">
 <tbody><tr><td>&nbsp;</td>
 <td>&nbsp;DRAM</td>
-<td>&nbsp;DDR</td>
+<td>&nbsp;DDR1</td>
 <td>&nbsp;DDR2</td>
 <td>&nbsp;DDR3</td>
 <td>&nbsp;DDR4</td>

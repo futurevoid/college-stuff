@@ -31,7 +31,7 @@ css = st.markdown("""<style>
 
 title = st.markdown(f"<h1>CS101 Computer Science Fundamentals<br>Taught by DR. Heba Elhadidi</h1>",unsafe_allow_html=True)
 
-Bio = st.markdown("<h3>Made by Tamer saeed shawky elhussieny elkoush</h3>",unsafe_allow_html=True)
+Bio = st.markdown("<h3>من قبل تامر السعيد شوقي الحسيني الكوش</h3>",unsafe_allow_html=True)
 
 st.markdown("<hr>",unsafe_allow_html=True)
 Q1 = st.markdown("<h4>Types of Computer applications</h4>",unsafe_allow_html=True)
