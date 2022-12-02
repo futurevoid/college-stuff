@@ -132,6 +132,4 @@ the CPU starts executing the instruction and the PC points to the next instructi
 </p>""",unsafe_allow_html=True)
 
 
-st.markdown("<hr>",unsafe_allow_html=True)
-
 
