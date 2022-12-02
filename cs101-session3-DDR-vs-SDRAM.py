@@ -53,7 +53,7 @@ st.markdown("<hr>",unsafe_allow_html=True)
 
 title2 = st.markdown ("""<h2>Synchronous Dynamic Random Access Memory(SDRAM)<br>
 vs <br>
-Double Data Rate Synchronous Random Access Memory(SRAM)</h2>""",unsafe_allow_html=True)
+Double Data Rate Synchronous Random Access Memory(DDR SDRAM)</h2>""",unsafe_allow_html=True)
 
 H1= st.markdown("""
 <h4>Synchronous Dynamic Random Access Memory(SDRAM)</h4>
