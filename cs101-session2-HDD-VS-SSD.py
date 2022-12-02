@@ -66,7 +66,7 @@ The full form of HDD is Hard Disk Drive.</p>
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjzdiOv8QaCaLOJEDHAmTWXC_wAOUkPmQnNg&usqp=CAU>""",unsafe_allow_html=True)
 
 H2= st.markdown("""
-<h4>Solid State Drive (SSD)<br>/h4>
+<h4>Solid State Drive (SSD)<br></h4>
 """,unsafe_allow_html=True)
 
 P2= st.markdown("""<p>
