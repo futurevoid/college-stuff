@@ -53,6 +53,8 @@ st.markdown("<hr>",unsafe_allow_html=True)
 
 title1 = st.markdown ("<h2>Processors vs Microprocessors</h2>",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H1 = st.markdown("<h4>Processor</h4>",unsafe_allow_html=True)
 
 P1 =st.markdown("""<p>Processor which is also known as Central Processing Unit (CPU) is a chip, assigned with the instructions of performing logical I/O operations and arithmetical functions of the computer.<br> 

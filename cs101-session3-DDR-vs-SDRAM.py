@@ -55,6 +55,8 @@ title2 = st.markdown ("""<h2>Synchronous Dynamic Random Access Memory(SDRAM)<br>
 vs <br>
 Double Data Rate Synchronous Random Access Memory(DDR SDRAM)</h2>""",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H1= st.markdown("""
 <h4>Synchronous Dynamic Random Access Memory(SDRAM)</h4>
 """,unsafe_allow_html=True)
@@ -66,6 +68,7 @@ However, SDRAM transfers data on one edge of the clock. """,unsafe_allow_html=Tr
 st.markdown("<hr>",unsafe_allow_html=True)
 
 H2= st.markdown("""
+  
 <h4>Double Double Data Synchronous Dynamic Random-Access Memory(DDR SDRAM)<br></h4>
 """,unsafe_allow_html=True)
 

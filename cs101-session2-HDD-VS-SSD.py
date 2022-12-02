@@ -53,6 +53,8 @@ st.markdown("<hr>",unsafe_allow_html=True)
 
 title2 = st.markdown ("<h2>Hard Disk Drives(HDD) vs Solid State Drive(SSD)</h2>",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H1= st.markdown("""
 <h4>Hard Disk Drive (HDD)</h4>
 """,unsafe_allow_html=True)

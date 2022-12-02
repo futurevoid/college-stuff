@@ -53,6 +53,8 @@ st.markdown("<hr>",unsafe_allow_html=True)
 
 title2 = st.markdown ("""<h2>Double Data Rate Types<br></h2>""",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H1= st.markdown("""
 <h4>Double Data Rate Type 1 Synchronous Dynamic Random-Access Memory(DDR1 SDRAM)</h4>
 """,unsafe_allow_html=True)
