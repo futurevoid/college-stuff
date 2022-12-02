@@ -64,6 +64,8 @@ So, a periodic refresh of power is required in order to function.
 DRAM is called dynamic as constant change or action(change is continuously happening) i.e. refreshing is needed to keep the data intact. 
 It is used to implement main memory. """,unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H2= st.markdown("""
 <h4>Static Random-Access Memory(SRAM)<br></h4>
 """,unsafe_allow_html=True)
@@ -73,6 +75,7 @@ Because of the continuous power, SRAM doesn’t need to be refreshed to remember
 SRAM is called static as no change or action i.e. refreshing is not needed to keep the data intact. 
 It is used in cache memories.&nbsp;</p>""",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
 
 T1=st.markdown("""<table>
   <thead>

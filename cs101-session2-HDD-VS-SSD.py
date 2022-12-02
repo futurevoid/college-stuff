@@ -65,6 +65,8 @@ HDD also consists of an I/O controller and firmware, which tells the hardware wh
 The full form of HDD is Hard Disk Drive.</p>
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjzdiOv8QaCaLOJEDHAmTWXC_wAOUkPmQnNg&usqp=CAU>""",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H2= st.markdown("""
 <h4>Solid State Drive (SSD)<br></h4>
 """,unsafe_allow_html=True)
@@ -74,6 +76,8 @@ Solid State Drive (SSD) is a non-volatile storage device that stores and retriev
 However, this data is stored on interconnected flash memory chips instead of platters, which makes them faster than HDDs.<br>
 It provides better performance compared to HDD.</p>
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQstR_b8xL00guiPHJhIKaqcoL7kukmYwE5gA&usqp=CAU>""",unsafe_allow_html=True)
+
+st.markdown("<hr>",unsafe_allow_html=True)
 
 T1=st.markdown("""<table class="table table-striped">
 <tbody>

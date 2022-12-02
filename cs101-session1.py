@@ -49,6 +49,8 @@ list1 = st.markdown("""<ul id=list1>
 </ul>  
 """,unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 subtitle2 = st.markdown(f"<h5>Types of Computer hardware applications:</h5>",unsafe_allow_html=True)
 list2 = st.markdown("""<ul id=list2>
   <li>Analog computers (continous data)</li>
@@ -60,6 +62,7 @@ list2 = st.markdown("""<ul id=list2>
   <li>Personal computers(PC)/Microcomputers</li>
 </ul>  
 """,unsafe_allow_html=True)
+
 st.markdown("<hr>",unsafe_allow_html=True)
 
 Q2 = st.markdown("<h4>PC not booting and not making a beep, what to do?</h4>",unsafe_allow_html=True)
@@ -77,30 +80,37 @@ list3 = st.markdown("""<ol id=list3>
 """,unsafe_allow_html=True)
 
 st.markdown("<hr>",unsafe_allow_html=True)
+
 Q3 = st.markdown("<h4>Parallel Processing is</h4>",unsafe_allow_html=True)
 p1 = st.markdown("""<p id=p1>breaking Large operations into small , discrete , often alike parts<br>
 executed simultaneously by multiple processors sharing memory</p>""",unsafe_allow_html=True)
 
 st.markdown("<hr>",unsafe_allow_html=True)
+
 Q4 = st.markdown("<h4>AI stands For</h4>",unsafe_allow_html=True)
 p2 = st.markdown("""<p id=p2>Artificial Intelligence</p>""",unsafe_allow_html=True)
 
 st.markdown("<hr>",unsafe_allow_html=True)
+
 Q5 = st.markdown("<h4>the biggest computer in size is</h4>",unsafe_allow_html=True)
 p3 = st.markdown("<p id=p3>The Mainframe computer</p>",unsafe_allow_html=True)
 
 st.markdown("<hr>",unsafe_allow_html=True)
+
 Q6 = st.markdown("<h4>Data is converted to Human readable data by</h4>",unsafe_allow_html=True)
 p4 = st.markdown("<p id=p4>Output sources</p>",unsafe_allow_html=True)
 
 st.markdown("<hr>",unsafe_allow_html=True)
+
 Q7 = st.markdown("<h4>Binary operated computers are</h4>",unsafe_allow_html=True)
 p5 = st.markdown("<p id=p5>Digital computers</p>",unsafe_allow_html=True)
 
 st.markdown("<hr>",unsafe_allow_html=True)
+
 Q7 = st.markdown("<h4>Hardware can be physically touched</h4>",unsafe_allow_html=True)
 p5 = st.markdown("<p id=p5>True</p>",unsafe_allow_html=True)
 
 st.markdown("<hr>",unsafe_allow_html=True)
+
 Q7 = st.markdown("<h4>Is not a computer type</h4>",unsafe_allow_html=True)
 p5 = st.markdown("<p id=p5>Login computer</p>",unsafe_allow_html=True)

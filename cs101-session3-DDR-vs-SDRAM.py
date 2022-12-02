@@ -63,6 +63,8 @@ P1= st.markdown("""<p>
 SDRAM is synchronous, and therefore relies on a clock to synchronize signals, creating predictable orderly cycles of data fetches and writes. 
 However, SDRAM transfers data on one edge of the clock. """,unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H2= st.markdown("""
 <h4>Double Double Data Synchronous Dynamic Random-Access Memory(DDR SDRAM)<br></h4>
 """,unsafe_allow_html=True)
@@ -73,6 +75,7 @@ DRAM is not regulated by a clock. DRAM is asynchronous, i.e., not synchronized b
 This posed a problem in organizing data as it comes in so it can be queued for the process it’s associated with. 
 Because DRAM was asynchronous, it was not going to work as fast with processors that were just getting faster.""",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
 
 T1=st.markdown("""</tr></tbody></table><table><tbody><tr>
       <th>SDRAM</th>

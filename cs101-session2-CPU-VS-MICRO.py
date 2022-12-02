@@ -64,6 +64,8 @@ It reads and writes the data on CD/DVD, USB or another removable disk and also r
 It performs its functions through the ALU and the CU stands for Arithmetic Logic Unit and Control Unit respectively.</p>
 <img src =https://diffzi.com/wp-content/uploads/2018/12/Processor-870x435.jpg>""",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H2 = st.markdown("<h4>MicroProcessor</h4>",unsafe_allow_html=True)
 
 P2  = st.markdown("""<p>Microprocessors are the latest form of CPUs.<br> 
@@ -78,7 +80,10 @@ But now small computers requires one or a few large scale circuits.
 </p>
 <img src =https://diffzi.com/wp-content/uploads/2018/12/Microprocessor-870x435.jpg>""",unsafe_allow_html=True)
 
-H3 = st.markdown("<H2>Difference Between HDD and SSD</H2>",unsafe_allow_html=True)
+st.markdown("<hr>",unsafe_allow_html=True)
+
+H3 = st.markdown("<H2>Difference Between HDD and SSD<br></H2>",unsafe_allow_html=True)
+
 T1 = st.markdown("""<br><table>
 <tr>
 <th>Function</th>

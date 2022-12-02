@@ -54,7 +54,7 @@ st.markdown("<hr>",unsafe_allow_html=True)
 title2 = st.markdown ("""<h2>Double Data Rate Types<br></h2>""",unsafe_allow_html=True)
 
 H1= st.markdown("""
-<h4>Double Double Data Synchronous Type 1 Dynamic Random-Access Memory(DDR1 SDRAM)</h4>
+<h4>Double Data Rate Type 1 Synchronous Dynamic Random-Access Memory(DDR1 SDRAM)</h4>
 """,unsafe_allow_html=True)
 
 P1= st.markdown("""<p>
@@ -66,8 +66,10 @@ The transfer rate of DDR is between 266~400 MT/s.
 DDR266 and DDR400 are of this type.</p>"""
 ,unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H2= st.markdown("""
-<h4>Double Double Data Synchronous Type 2 Dynamic Random-Access Memory(DDR2 SDRAM)<br></h4>
+<h4>Double Data Rate Type 2 Synchronous Dynamic Random-Access Memory(DDR2 SDRAM)<br></h4>
 """,unsafe_allow_html=True)
 
 P2= st.markdown("""<p>
@@ -78,8 +80,10 @@ The prefetch buffer of DDR2 is 4 bit(double of DDR SDRAM).
 DDR2 memory is at the same internal clock speed (133~200MHz) as DDR, but the transfer rate of DDR2 can reach 533~800 MT/s with the improved I/O bus signal. 
 DDR2 533 and DDR2 800 memory types are on the market.""",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H3= st.markdown("""
-<h4>Double Double Data Synchronous Type 3 Dynamic Random-Access Memory(DDR3 SDRAM)<br></h4>
+<h4>Double Data Rate Type 3 Synchronous Dynamic Random-Access Memory(DDR3 SDRAM)<br></h4>
 """,unsafe_allow_html=True)
 
 P3= st.markdown("""<p>
@@ -89,8 +93,10 @@ DDR3's prefetch buffer width is 8 bit, whereas DDR2's is 4 bit, and DDR's is 2 b
 DDR3 also adds two functions, such as ASR (Automatic Self-Refresh) and SRT (Self-Refresh Temperature). 
 They can make the memory control the refresh rate according to the temperature variation.</p>""",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 H4= st.markdown("""
-<h4>Double Double Data Synchronous Type 4 Dynamic Random-Access Memory(DDR4 SDRAM)<br></h4>
+<h4>Double Data Rate Type 4 Synchronous Dynamic Random-Access Memory(DDR4 SDRAM)<br></h4>
 """,unsafe_allow_html=True)
 
 P4= st.markdown("""<p>
@@ -101,7 +107,10 @@ DDR4 can process 4 data within a clock cycle, so DDR4's efficiency is better tha
 DDR4 also adds some functions, such as DBI (Data Bus Inversion), CRC (Cyclic Redundancy Check) and CA parity. 
 They can enhance DDR4 memory's signal integrity, and improve the stability of data transmission/access.</p>""",unsafe_allow_html=True)
 
+st.markdown("<hr>",unsafe_allow_html=True)
+
 img = st.markdown("<img src = https://tl360.b-cdn.net/wp-content/uploads/2020/10/DDR1-vs-DDR2-vs-DDR3-vs-DDR4-RAM-2.jpg></img>",unsafe_allow_html=True)
+
 T1=st.markdown("""<table cellspacing="0" cellpadding="1" border="1">
 <tbody><tr><td>&nbsp;</td>
 <td>&nbsp;DRAM</td>
