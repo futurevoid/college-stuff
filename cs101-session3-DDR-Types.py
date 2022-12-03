@@ -3,7 +3,7 @@ import requests
 
 
 st.set_page_config(
-         page_title="CS101 session2 HDD VS SSD",
+         page_title="Double Data Rate Types",
      page_icon="",
      initial_sidebar_state="collapsed",
  )
@@ -53,7 +53,6 @@ st.markdown("<hr>",unsafe_allow_html=True)
 
 title2 = st.markdown ("""<h2>Double Data Rate Types<br></h2>""",unsafe_allow_html=True)
 
-st.markdown("<hr>",unsafe_allow_html=True)
 
 H1= st.markdown("""
 <h4>Double Data Rate Type 1 Synchronous Dynamic Random-Access Memory(DDR1 SDRAM)</h4>

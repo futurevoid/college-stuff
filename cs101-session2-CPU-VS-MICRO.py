@@ -3,7 +3,7 @@ import requests
 
 
 st.set_page_config(
-         page_title="CS101 session2 CPU VS Microprocessor",
+         page_title="CPU VS Microprocessor",
      page_icon="",
      initial_sidebar_state="collapsed",
  )
@@ -53,7 +53,6 @@ st.markdown("<hr>",unsafe_allow_html=True)
 
 title1 = st.markdown ("<h2>Processors vs Microprocessors</h2>",unsafe_allow_html=True)
 
-st.markdown("<hr>",unsafe_allow_html=True)
 
 H1 = st.markdown("<h4>Processor</h4>",unsafe_allow_html=True)
 

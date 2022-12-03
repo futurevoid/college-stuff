@@ -3,7 +3,7 @@ import requests
 
 
 st.set_page_config(
-         page_title="CS101 session2 HDD VS SSD",
+         page_title="DRAM vs SRAM",
      page_icon="",
      initial_sidebar_state="collapsed",
  )
@@ -53,7 +53,6 @@ st.markdown("<hr>",unsafe_allow_html=True)
 
 title2 = st.markdown ("<h2>Dynamic Random Access Memory(DRAM) vs Static Random-Access Memory(SRAM)</h2>",unsafe_allow_html=True)
 
-st.markdown("<hr>",unsafe_allow_html=True)\
 
 H1= st.markdown("""
 <h4>Dynamic Random Access Memory(DRAM)</h4>

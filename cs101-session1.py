@@ -37,9 +37,9 @@ st.markdown("<hr>",unsafe_allow_html=True)
 
 Q1 = st.markdown("<h4>Types of Computer applications</h4>",unsafe_allow_html=True)
 
-st.markdown("<hr>",unsafe_allow_html=True)
 
 subtitle1 = st.markdown(f"<h5>Types of Computer software applications:</h5>",unsafe_allow_html=True)
+
 list1 = st.markdown("""<ul id=list1>
   <li>Web browsers</li>
   <li>Business software</li>
