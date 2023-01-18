@@ -1,8 +1,6 @@
 # college stuff
 
-my college files (feel free to use)
-
-## Electronics IT101  
+## *Electronics IT101*  
 
 ## introduction to electronics english  
 
