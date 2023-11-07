@@ -1,0 +1,58 @@
+Complexity:
+Add_at_front: O(1) Constant
+Add_at_any_index: O(n) Linear
+Add_at_the_end: O(n) Linear
+Delete: O(n) Linear
+Search: O(n) Linear
+The overall complexity is ranging from O(1) to O(n)
+
+Algorithm:
+
+Add at Front:
+
+    Create a new node with the provided data.
+    If list is empty
+        set the new node as the head.
+    else
+         set the new node as the head and update pointers accordingly.
+    End if
+
+Add at Any Index:
+
+Check if the previous node exists.
+Create a new node with the provided data.
+    If previous node is last node
+        set the next of the previous node to the new node.
+    else
+         update pointers accordingly.
+    End if
+
+Add at the End:
+
+Create a new node with the provided data.
+    If list is empty
+        set the new node as the head.
+        Traverse the list to find the last node.
+        Set the next of the last node to the new node.
+    End if
+
+Delete:
+
+Start from the head node.
+    If head node contains the key
+        update the head and delete the previous head.
+    else
+         Find the node with the key and delete it.
+         Update pointers to remove the node with the key.
+    End if
+
+Search:
+
+Start from the head node.
+Traverse the list and search for the specified element.
+Print a message if the element is found or if it doesn't exist in the list.
+
+Print List:
+
+Start from the head node.
+Traverse the list and print each node's data.

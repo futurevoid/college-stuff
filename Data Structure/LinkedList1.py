@@ -1,1 +1,15 @@
 from SingleLinkedList import *
+
+LL1 = LinkedList()
+Node1 = LL1.Add_at_front("I use Arch BTW")
+Node2 = LL1.Add_at_front("Abo obaidah amk")
+Node3 = LL1.Add_at_any_index(LL1.head,6.2)
+Node4 = LL1.Add_at_any_index(LL1.head.next,8)
+Node5 = LL1.Add_at_the_end(1)
+Node6 = LL1.Add_at_the_end(4.7)
+LL1.print_list()
+print("\n") 
+LL1.delete(4.7)
+LL1.print_list()
+print("\n")
+LL1.search("I use Arch BTW")
