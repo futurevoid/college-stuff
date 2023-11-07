@@ -57,24 +57,36 @@ class CircularLinkedList:
             new_node.next = self.head
 
     def delete(self, key):
-        # Function to delete a node with a specific value from the circular linked list
-        if self.head.next == key:
-            # If the head's next node contains the key, update the pointers and delete the node
-            cur = self.head
-            while cur.next != self.head:
-                cur = cur.next
-            cur.next = self.head.next
-            self.head = self.head.next
-        else:
-            cur = self.head
-            prev = None
-            if cur.next != self.head:
-                prev = cur
-                cur = cur.next
-                if cur.data == key:
-                    # If the node with the key is found, update the pointers to delete the node
-                    prev.next = cur.next
-                    cur = cur.next
+        if self.head is None:
+            return
+    
+        cur = self.head
+        if cur.data == key:  # If the head node contains the key
+            if cur.next == self.head:  # If there is only one node
+                self.head = None
+                return
+            else:
+                last = self.head.prev  # Get the last node
+                self.head = self.head.next  # Update the head to the next node
+                last.next = self.head  # Update the last node's next pointer to the new head
+                self.head.prev = last  # Update the head's prev pointer to the last node
+                return
+    
+        prev = None
+        while cur.next != self.head:
+            if cur.data == key:
+                break
+            prev = cur
+            cur = cur.next
+    
+        if cur.next == self.head:  # If the last node contains the key
+            prev.next = self.head
+            self.head.prev = prev
+            return
+    
+        prev.next = cur.next
+        cur.next.prev = prev
+
 
     def search(self, x):
         # Function to search for a specific value in the circular linked list
