@@ -1,21 +1,35 @@
-from stack import *
+class Stack:
 
-stack1 = Stack()
+def __init__(self): 
+self.items = []
 
-s1-stack1
+def empty(self):
 
-print(s1.empty())
+if self.items == []:
 
-s1.push(16)
+return True
 
-s1.push(True)
+else:
 
-s1.push(16.7)
+return False
 
-s1.push("abo obaidah amk")
 
-print(s1.size())
+def push (self, item):
 
-print(f"{s1.peek()} is the top value")
+ self.items.append(item)
 
-print("{s1.pop()} is popped")
+
+def pop(self):
+
+ return self.items.pop()
+
+
+
+def peek(self): 
+
+return self.items[len(self.items) - 1]
+
+
+
+def size(self):
+ return len(self.items)
