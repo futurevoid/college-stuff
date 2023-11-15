@@ -1,12 +1,12 @@
-Complexity:
+Complexities:
 Add_at_front: O(1) Constant
 Add_at_any_index: O(n) Linear
-Add_at_the_end: O(n) Linear
+Add_at_the_end: O(1) Constat
 Delete: O(n) Linear
 Search: O(n) Linear
 The overall complexity is ranging from O(1) to O(n)
 
-Algorithm:
+Algorithms:
 
 Add at Front:
 
@@ -22,9 +22,9 @@ Add at Any Index:
 Check if the previous node exists.
 Create a new node with the provided data.
     If previous node is last node
-        set the next of the previous node to the new node.
+        update pointers to add the new node at the end of the list.
     else
-         update pointers accordingly.
+         update pointers accordingly to insert the new node after the specified node .
     End if
 
 Add at the End:
@@ -34,7 +34,7 @@ Create a new node with the provided data.
         set the new node as the head.
     else
         Traverse the list to find the last node.
-        Set the next of the last node to the new node.
+        update pointers to add the new node at the end of the list.
     End if
 
 Delete:
@@ -43,7 +43,7 @@ Start from the head node.
     If head node contains the key
         update the head and delete the previous head.
     else
-         Find the node with the key and delete it.
+         Traverse the list to find the node with the given key.
          Update pointers to remove the node with the key.
     End if
 
