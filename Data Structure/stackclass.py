@@ -1,29 +1,37 @@
 class Stack:
+    def __init__(self):
+        self.items = []
 
-def __init__(self): self.items = []
+    def empty(self):
+        if self.items == []:
+            print("The stack is empty")
 
-def empty(self):
+        else:
+            print("The stack is not empty")
 
-if self.items == []:
+    def push(self, item):
+        self.items.append(item)
 
-return True
+    def pop(self, index=...):
+        if index == ...:
+            return self.items.pop()
+        else:
+            return self.items.pop(index)
 
-else:
+    def peek(self):
+        return self.items[len(self.items) - 1]
 
+    def size(self):
+        return len(self.items)
 
+    def printstack(self):
+        if self.items == []:
+            return
+        elements = self.peek()
 
-return False
+        self.pop()
+        self.printstack()
 
+        print(elements)
 
-def push (self, item): self.items.append(item)
-
-
-def pop(self): return self.items.pop()
-
-
-
-def peek(self): return self.items[len(self.items) - 1]
-
-
-
-def size(self): return len(self.items)
+        self.push(elements)
