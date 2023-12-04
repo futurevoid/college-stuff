@@ -1,0 +1,15 @@
+Arithmetic calculation : O(1)
+Geometric calculation : O(1)
+
+ALGO:
+Prompt the user to choose between an arithmetic and geometric sequence.
+
+Take user input for the necessary parameters based on the chosen sequence type (first term, common difference/ratio, and the number of terms).
+
+If the user chooses an arithmetic sequence:
+Use the formula for the sum of an arithmetic sequence to calculate the sum.
+
+If the user chooses a geometric sequence:
+Use the formula for the sum of a geometric sequence to calculate the sum.
+
+Print the calculated sum of the sequence.

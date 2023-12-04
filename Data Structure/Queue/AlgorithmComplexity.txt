@@ -1,0 +1,33 @@
+Complexity:
+CircularQueue: O(N)
+Queue: o(N)
+
+ALGO:
+
+CircularQueue:
+    Initialize:
+
+    Create an array to store the elements of the queue.
+    Initialize front and rear pointers to -1.
+    is_empty Function:
+
+    Return True if the front is -1; otherwise, return False.
+    is_full Function:
+
+    Return True if the next position after the rear is equal to the front (circular full); otherwise, return False.
+    enqueue Function:
+
+    If the queue is full, print an error message and exit.
+    If the queue is empty, set front and rear to 0.
+    Increment the rear pointer (use modulo to handle circular increment).
+    Insert the new element at the rear position in the array.
+    dequeue Function:
+
+    If the queue is empty, print an error message and exit.
+    Save the element at the front position.
+    If front equals rear (last element in the queue), reset front and rear to -1.
+    Otherwise, increment the front pointer (use modulo to handle circular increment).
+    display Function:
+
+    If the queue is empty, print a message indicating that the queue is empty.
+    Otherwise, iterate from the front to the rear (inclusive) and print the elements in the queue.

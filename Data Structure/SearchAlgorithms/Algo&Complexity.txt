@@ -1,0 +1,54 @@
+Complexity:
+BinarySearch: O(log N)
+FibonacciSearch: O(N)
+ALGO:
+BinarySearch:
+Input a sorted list (lst).
+
+Input the target element to search for (x).
+
+Set low to 0 (index of the first element in the list).
+
+Set high to the length of the list minus 1 (index of the last element in the list).
+
+While low is less than or equal to high:
+
+Calculate the middle index: mid = (low + high) // 2.
+
+If the element at the middle index (lst[mid]) is equal to x, return mid (element found).
+
+If x is greater than the element at mid, update low = mid + 1 (search in the right half).
+
+If x is less than the element at mid, update high = mid - 1 (search in the left half).
+
+If the element is not found, return -1.
+
+FIBONACCI:
+
+Input a sorted list (lst).
+
+Input the target element to search for (value).
+
+Initialize three Fibonacci numbers f0, f1, and f2 such that f2 is the smallest Fibonacci number greater than or equal to the length of the list.
+
+Initialize an index offset to -1.
+
+While f2 > 1:
+
+Calculate the index index using min(offset + f0, size - 1).
+
+If lst[index] is less than value:
+
+Update f2, f1, and f0 accordingly.
+
+Update offset to index.
+
+If lst[index] is greater than value:
+
+Update f2, f1, and f0 accordingly.
+
+If lst[index] is equal to value, return index (element found).
+
+If f1 is non-zero and lst[size - 1] is equal to value, return size - 1 (element found).
+
+Return "Value Not Found" if the element is not found.
