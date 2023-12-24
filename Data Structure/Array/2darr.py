@@ -11,5 +11,6 @@ print(ab[1][1])
 
 for pntr in range(10, 25):
     print(ab[0][pntr])
+print("&" * 50)
 for pntr in range(1, 25):
     print(ab[1][pntr])

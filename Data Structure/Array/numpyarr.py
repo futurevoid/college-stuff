@@ -22,3 +22,10 @@ print(d2.ndim)
 print(d3.ndim)
 
 print(d3[:2, :2:2])
+
+arr2x25 = np.arange(start=1, stop=51).reshape(2, 25)
+print(arr2x25)
+
+for pntr in range(0, 2):
+    for ptr in range(9, 25):
+        print(arr2x25[pntr][ptr])

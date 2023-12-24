@@ -39,9 +39,9 @@ print(arrd)
 arr2.insert(2, 3)
 print(arr2)
 sumr = arr2[::-1]
-print(sumr)
+print(f"a {sumr}")
 
 
-rows, cols = (3, 3)
+rows, cols = (2, 25)
 
 print([[2, 8] * rows] * cols)
