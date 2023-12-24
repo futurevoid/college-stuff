@@ -28,10 +28,7 @@ class Stack:
         if self.items == []:
             return
         elements = self.peek()
-
         self.pop()
         self.printstack()
-
         print(elements)
-
         self.push(elements)

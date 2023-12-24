@@ -20,19 +20,23 @@ class LinkedList:
             new_node.next = self.head
             self.head = new_node
 
-    def Insert(self, prev_node, new_data):
-        # Function to add a new node after a specific node in the linked list
-        if prev_node is None:  # Check if the previous node exists
-            print("Index does not exist")
+    def Insert(self, index, new_data):
+        if index == 0:
+            self.Prepend(new_data)
             return
-        new_node = Node(new_data)
-        if (
-            prev_node.next is None
-        ):  # If prev_node is the last node, set the next of prev_node to the new_node
-            prev_node.next = new_node
-        else:  # If prev_node is not the last node, update pointers accordingly
-            new_node.next = prev_node.next
-            prev_node.next = new_node
+        newnode = Node(new_data)
+        current = self.head
+        for i in range(index - 1):
+            current = current.next
+            if not current:
+                print("invalid or non-existent index")
+                return
+        if current.next is None:
+            current.next = newnode
+            return
+        else:
+            newnode.next = current.next
+            current.next = newnode
 
     def Append(self, new_data):
         # Function to add a new node at the end of the linked list
@@ -61,7 +65,7 @@ class LinkedList:
             current = current.next
         if current is None:  # If the key is not found, return
             return
-        prev.next = current.next  # Update pointers to remove the node with the key
+        prev.next = current.next
         current = None
 
     def search(self, x):
